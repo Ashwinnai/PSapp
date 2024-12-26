@@ -3,6 +3,3 @@ pandas
 numpy
 plotly
 pyworkforce
-re
-io
-time
