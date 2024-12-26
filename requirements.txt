@@ -3,7 +3,6 @@ pandas
 numpy
 plotly
 pyworkforce
-concurrent.futures
 re
 io
 time
